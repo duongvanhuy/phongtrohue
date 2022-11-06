@@ -2,3 +2,12 @@ git add .
 git commit -m "your comment"
 git pull
 git push
+
+
+-- khi có yêu cầu get master => vô thu mục có chứa thư mục git => vào "git base here" => gõ "git pull"
+	-- trường hợp m đang làm dở ( chỉnh sửa code hay thêm file gì đó) thì tiến hành:
+
+ git add . 
+ git commit -m "fix: change file" =
+ git pull
+ git push
