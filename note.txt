@@ -11,3 +11,22 @@ git push
  git commit -m "fix: change file" =
  git pull
  git push
+
+
+git pull 
+
+CSDL
+NoSQL, SQL
+1. NoSQL => m sẽ k sd code, câu lệnh ddeeer làm việc vs CSDL => mongodb
+2. SQL => SQL server, mySQL
+
+
+-- phân tích cơ sở dữ liêu--
+1. Mối quan hệ giữa các thực thể -- 1-1,,,, 1-n,...n-n => cách đặt khóa ngoại giữa các bảng như nào, tạo bảng trung gian ra làm sao
+
+2. Vẽ sơ dồ mới quan hệ đó  --- 
+3. Ràng buôc khóa chính, khóa ngoại
+4. Các kiểu dữ liệu
+
+
+Quản lyys công việc bằng trello
