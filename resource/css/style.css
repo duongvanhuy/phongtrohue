@@ -116,3 +116,30 @@ h6,
         padding: 10px 0;
     }
 }
+
+
+
+/* Path: resource\css\bootstrap.min.css */
+.post-author {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 10px;
+    color: #8a8d91;
+}
+
+.post-author img {
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 5px;
+}
+
+
+.contact-us {
+    border: 7px dashed #e8eefc;
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
