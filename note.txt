@@ -2,3 +2,31 @@ git add .
 git commit -m "your comment"
 git pull
 git push
+
+
+-- khi có yêu cầu get master => vô thu mục có chứa thư mục git => vào "git base here" => gõ "git pull"
+	-- trường hợp m đang làm dở ( chỉnh sửa code hay thêm file gì đó) thì tiến hành:
+
+ git add . 
+ git commit -m "fix: change file" =
+ git pull
+ git push
+
+
+git pull 
+
+CSDL
+NoSQL, SQL
+1. NoSQL => m sẽ k sd code, câu lệnh ddeeer làm việc vs CSDL => mongodb
+2. SQL => SQL server, mySQL
+
+
+-- phân tích cơ sở dữ liêu--
+1. Mối quan hệ giữa các thực thể -- 1-1,,,, 1-n,...n-n => cách đặt khóa ngoại giữa các bảng như nào, tạo bảng trung gian ra làm sao
+
+2. Vẽ sơ dồ mới quan hệ đó  --- 
+3. Ràng buôc khóa chính, khóa ngoại
+4. Các kiểu dữ liệu
+
+
+Quản lyys công việc bằng trello
