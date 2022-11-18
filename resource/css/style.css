@@ -6,6 +6,11 @@
     --dark: #2B2825;
 }
 
+/* mau nen của loginView */
+.bg-loginView {
+    background: #caef73d8;
+}
+
 .font-secondary {
     font-family: 'Pacifico', cursive;
 }
